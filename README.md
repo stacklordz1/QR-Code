@@ -1,34 +1,28 @@
-QR Code Generator
+<h1 align='center'>QR Code Generator</h1>
+<p align="center"> <img src="https://img.shields.io/badge/React-18-blue?logo=react" /> <img src="https://img.shields.io/badge/TailwindCSS-3-blue?logo=tailwindcss" /> <img src="https://img.shields.io/badge/Status-Live-success" /> <img src="https://img.shields.io/badge/QR-Code-black" /> </p> <p align="center"> A clean and modern QR Code Generator built with <b>React</b> and <b>Tailwind CSS</b>. </p>
+🔗 Live Demo
 
-A modern QR Code Generator built with React and Tailwind CSS. Generate and download QR codes instantly for any text or URL.
+👉 https://your-live-demo-link.vercel.app
 
-Features
+📸 Preview
+<p align="center"> <img width="428" height="585" alt="image" src="https://github.com/user-attachments/assets/22a578f4-24d7-492e-881b-cb5f549c4b67" />
+ </p>
+✨ Features
 
-Live QR code generation with debounce
+Generate QR codes for any text or URL
 
-Supports URLs and plain text
+Auto-generate with debounce
 
 Download QR code as PNG
 
-Loading and error handling
+Loading & error handling
 
-Responsive, clean UI
+Responsive dark UI
 
-Built With
+🛠 Tech Stack
 
 React
 
 Tailwind CSS
 
 qrcode (npm)
-
-Getting Started
-npm install
-npm run dev
-
-How It Works
-
-Enter a URL or text, generate the QR code, and download it as an image.
-
-
-![alt text](image.png)
