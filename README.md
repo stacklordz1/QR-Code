@@ -31,4 +31,4 @@ How It Works
 Enter a URL or text, generate the QR code, and download it as an image.
 
 
-![alt text](image.png)
+
